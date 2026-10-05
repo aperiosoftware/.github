@@ -1,5 +1,6 @@
 [tool.giles-dev.org_vetting]
 enabled = true
+allowlist = "https://raw.githubusercontent.com/aperiosoftware/.github/main/vetting-allowlist.txt"
 message = """
 Hi 👋 and thank you for your contribution! 🙏
 
