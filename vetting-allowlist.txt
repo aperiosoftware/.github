@@ -1,2 +1,3 @@
 # GitHub usernames (one per line) whose pull requests are not closed by the
 # organization vetting bot even though they are not organization members.
+astrofrog-conda-forge
